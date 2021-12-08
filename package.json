@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pravesh-123/video-call/issues"
   },
-  "homepage": "https://github.com/pravesh-123/video-call#readme"
+  "homepage": "https://github.com/pravesh-123/video-call#readme",
+  "engines": {
+    "node": ">=14.17.5."
+  }
 }
